@@ -16,4 +16,4 @@ Basic Arithmetic Operations:
 Technologies Used
 * HTML
 * CSS
-* JAVASCRIPT
+* JAVASCRIPT 
